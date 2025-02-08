@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Landscape/EuropeanBeech/Foliage/PivotPainter/FT_EuropeanBeech_Field_01_PP.uasset
+Content/Landscape/EuropeanBeech/Foliage/PivotPainter/FT_EuropeanBeech_Forest_03_PP.uasset
+Content/Landscape/EuropeanBeech/Foliage/PivotPainter/FT_EuropeanBeech_Forest_02_PP.uasset
+Content/Landscape/EuropeanBeech/Foliage/PivotPainter/FT_EuropeanBeech_Forest_01_PP.uasset
